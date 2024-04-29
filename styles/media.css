@@ -9,20 +9,21 @@
     }
 
     h2{
-        font-size: 38px;
+        font-size: 40px;
         align-items: center;
+        text-align: center;
     }
 
     form{
         margin: 0 auto;
-        width: 100%;
+        width: 60%;
     }
 
     input{
         align-self: center;
     }
 
-    img{
+    img [src="./components/images/foto-site.png"] {
         display: none;
     }
 
