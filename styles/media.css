@@ -30,3 +30,22 @@
         text-align: center;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .github-repo {
+        flex-direction: column;
+    }
+
+    .github-repo a {
+        margin-top: 10px;
+    }
+
+    main {
+        flex-direction: column;
+    }
+
+    .left-column,
+    .right-column {
+        width: 100%;
+    }
+}
