@@ -1,5 +1,5 @@
 body{
-    background-color: green;
+    background: linear-gradient(to right,rgb(0,120,120) ,rgb(0,90,139) , rgb(0,90,100) );
     color: white;
     font-family: poppinsregular;
     max-width: 1200px;
